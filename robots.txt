@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://quitbegin.github.io/sitemap/sitemap.txt
